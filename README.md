@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sushmita, a high school sophomore
+- 👋 Hi, I’m Sushmita, a high school Junior
 - 👀 I’m interested in Web Development using HTML and CSS and App Development using Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m open to collaborations
