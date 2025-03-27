@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sushmita, a Sophomore at Siena College
+- 👋 Hi, I’m Sushmita, a Junior at Siena College
 - 👀 I’m interested in Web Development using HTML, CSS, and JS and App Development using Flutter
 - 🌱 I’m currently learning JS, Swift, and SwiftUI and exploring Cybersecurity
 - 💞️ I’m open to collaborations
